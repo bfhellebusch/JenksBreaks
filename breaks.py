@@ -1,3 +1,12 @@
+# Script that calls Jenk's Natural Breaks Functions
+#
+# Author	=> Sean Hellebusch | sahellebusch@gmail.com
+# Date 		=> 11.24.2014
+# Version	=> 1.0
+#
+# Args[1]: list of data points in a txt file
+# Args[2]: the number of desired data class breaks
+
 #!/usr/bin/python
 
 import sys
